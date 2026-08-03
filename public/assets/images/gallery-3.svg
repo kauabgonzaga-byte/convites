@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560">
+  <rect width="900" height="560" fill="#f6f2e8"/><path d="M0 74h900v91H0z" fill="#dfe8d8"/><path d="M0 474h900v86H0z" fill="#dfe8d8"/>
+  <g transform="translate(316 126) rotate(-8)"><circle cx="130" cy="160" r="102" fill="none" stroke="#b28a55" stroke-width="28"/><path d="M110 58l20-49 20 49z" fill="#d5a096"/></g><g transform="translate(454 150) rotate(12)"><circle cx="130" cy="160" r="102" fill="none" stroke="#c98d83" stroke-width="28"/><path d="M110 58l20-49 20 49z" fill="#b28a55"/></g>
+  <g fill="#9caf96"><path d="M95 92c64 1 88 38 93 100-58-6-91-39-93-100Z"/><path d="M810 476c-63 0-88-38-93-100 58 5 91 39 93 100Z"/></g><text x="450" y="505" fill="#597064" font-family="Georgia,serif" font-size="26" text-anchor="middle" letter-spacing="5">DOIS CAMINHOS, UM LUGAR</text>
+</svg>
