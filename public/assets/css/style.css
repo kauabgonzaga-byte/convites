@@ -203,4 +203,53 @@ h2 { color: var(--deep); font-size: clamp(2rem, 4vw, 3.4rem); letter-spacing: -.
 
 @media (max-width: 520px) {
   .gift-grid { grid-template-columns: 1fr; }
+  
+}
+.story{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    gap:70px;
+    max-width:1200px;
+    margin:auto;
+    padding:100px 20px;
+}
+
+.story-image{
+    flex:1;
+}
+
+.story-image img{
+    width:100%;
+    max-width:520px;
+    border-radius:18px;
+    display:block;
+    margin:auto;
+    box-shadow:0 15px 40px rgba(0,0,0,.12);
+}
+
+.story-content{
+    flex:1;
+    max-width:500px;
+}
+
+.story-content h2{
+    margin-bottom:20px;
+}
+
+.story-content p{
+    line-height:1.8;
+}
+
+@media(max-width:900px){
+
+    .story{
+        flex-direction:column;
+        text-align:center;
+    }
+
+    .story-image img{
+        max-width:400px;
+    }
+
 }
